@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Circadian Connect</string>
+    <string name="logo"> logo </string>
+
+    <!--MAIN ACTIVITY -->
+    <string name="scan"> Scan </string>
+    <string name="recent"> Recent </string>
+    <string name="settings"> Settings </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- ONBOARDING SCREENS -->
+    <string name="skip"> Skip </string>
+    <string name="next"> Next-> </string>
+    <string name="finish"> Finish </string>
+    <string name="scan_qr"> Scan your QR Codes </string>
+    <string name="qr_code"> QR Code Image </string>
+
+</resources>
